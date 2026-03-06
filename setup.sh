@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-BINARY_URL="https://raw.githubusercontent.com/sudoloser/safesu/main/safesu"
+BINARY_URL="https://github.com/sudoloser/safesu/raw/refs/heads/main/safesu"
 BIN_DIR="$HOME/.bin"
 INSTALL_PATH="$BIN_DIR/safesu"
 
